@@ -16,10 +16,11 @@
 수수수수수퍼노바
 
 //code
-Link:[naver][addr]
+[naver][addr]
+
 [addr]:https://www.naver.com "네이버"
 
-
+사이트 주소 : <http:www.naver.com>
 
 
 

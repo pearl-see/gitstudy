@@ -15,6 +15,9 @@
 --------------------------------
 수수수수수퍼노바
 
+//code
+Link:[naver][addr]
+[addr]:https://www.naver.com "네이버"
 
 
 
